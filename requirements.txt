@@ -1,0 +1,7 @@
+streamlit
+pyarrow==25.0.1
+faiss-cpu
+numpy
+pypdf
+sentence-transformers
+openai
