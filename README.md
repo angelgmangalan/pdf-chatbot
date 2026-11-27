@@ -45,7 +45,7 @@ running locally, and the `llama3.2:3b` model must be available.
 
 Python package dependencies are listed in [`requirements.txt`](requirements.txt).
 
-## Dashboard
+## Chatbot
 
 <img width="1747" height="883" alt="Screenshot 2026-11-26 224453" src="https://github.com/user-attachments/assets/0f5cfdea-0a1e-4d2a-8b77-210289d72761" />
 
